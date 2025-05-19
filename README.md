@@ -62,7 +62,7 @@ My approach to development:
 
 I'm always open to interesting projects, technical discussions, or collaborative opportunities.
 
-[![LinkedIn](https://www.linkedin.com/in/ahmed-suleiman-652251298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![LinkedIn](https://www.linkedin.com/in/ahmed-suleiman-652251298/)
 [![Portfolio](https://github.com/gustav2k22)
 
 ---
