@@ -1,4 +1,4 @@
-# <⚡/> GUSTAV | Digital Craftsman
+# <⚡/> SULEIMAN AHMED IBN AHMED | Digital Craftsman
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Solving+problems+with+elegant+code;Building+tomorrow's+web+today;Turning+coffee+into+functions)](https://git.io/typing-svg)
 
@@ -9,8 +9,8 @@ I transform complex problems into elegant, efficient solutions. My journey throu
 ```javascript
 const gustav = {
   skills: {
-    languages: ['JavaScript', 'Python', 'Bash', Flutter],
-    frontend: ['React', 'Tailwind CSS', 'Material UI'],
+    languages: ['JavaScript', 'Python', 'Bash', 'Dart'],
+    frontend: ['React', 'Tailwind CSS', 'Material UI', 'Flutter'],
     backend: ['PHP', 'Express', 'REST APIs'],
     database: ['MYSQL', 'MariaDB'],
     devOps: ['GitHub Actions', 'CI/CD pipelines', 'Linux'],
